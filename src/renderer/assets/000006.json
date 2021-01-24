@@ -1,0 +1,66 @@
+{
+    "log_id": 1352073837038010368,
+    "person_num": 4,
+    "person_info": [
+        {
+            "attributes": {
+                "is_human": {
+                    "score": 0.9992765784263611,
+                    "name": "正常人体"
+                }
+            },
+            "location": {
+                "score": 0.9693296551704407,
+                "top": 191,
+                "left": 114,
+                "width": 58,
+                "height": 143
+            }
+        },
+        {
+            "attributes": {
+                "is_human": {
+                    "score": 0.9998792409896851,
+                    "name": "正常人体"
+                }
+            },
+            "location": {
+                "score": 0.9622895121574402,
+                "top": 112,
+                "left": 224,
+                "width": 96,
+                "height": 222
+            }
+        },
+        {
+            "attributes": {
+                "is_human": {
+                    "score": 0.9613059759140015,
+                    "name": "正常人体"
+                }
+            },
+            "location": {
+                "score": 0.824871301651001,
+                "top": 1,
+                "left": 379,
+                "width": 119,
+                "height": 332
+            }
+        },
+        {
+            "attributes": {
+                "is_human": {
+                    "score": 0.9456138014793396,
+                    "name": "正常人体"
+                }
+            },
+            "location": {
+                "score": 0.2759148180484772,
+                "top": 245,
+                "left": 44,
+                "width": 18,
+                "height": 58
+            }
+        }
+    ]
+}
